@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  line-height: normal;
+  max-width: 100%;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl: 1.25rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-13xl: 2rem;
+  --font-size-43xl-5: 3.906rem;
+  --font-size-18xl: 2.313rem;
+  --font-size-31xl: 3.125rem;
+  --font-size-xs: 0.75rem;
+  --font-size-19xl: 2.375rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.1);
+  --color-gray-200: rgba(0, 0, 0, 0.05);
+  --color-royalblue: #0d74e7;
+  --color-gainsboro-100: rgba(217, 217, 217, 0.5);
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+
+  /* Gaps */
+  --gap-41xl: 3.75rem;
+  --gap-mini: 0.937rem;
+  --gap-11xl: 1.875rem;
+  --gap-5xl: 1.5rem;
+  --gap-5xs: 0.5rem;
+  --gap-21xl: 2.5rem;
+  --gap-xl: 1.25rem;
+  --gap-base: 1rem;
+  --gap-13xl: 2rem;
+  --gap-mid: 1.062rem;
+
+  /* Paddings */
+  --padding-61xl: 5rem;
+  --padding-xl: 1.25rem;
+  --padding-24xl: 2.687rem;
+  --padding-3xs: 0.625rem;
+  --padding-151xl: 10.625rem;
+  --padding-23xl: 2.625rem;
+  --padding-66xl: 5.312rem;
+  --padding-67xl: 5.375rem;
+  --padding-33xl: 3.25rem;
+  --padding-sm: 0.875rem;
+  --padding-mini: 0.937rem;
+  --padding-9xs: 0.25rem;
+  --padding-40xl: 3.687rem;
+  --padding-105xl: 7.75rem;
+  --padding-335xl: 22.125rem;
+  --padding-12xs: 0.062rem;
+  --padding-10xs: 0.187rem;
+  --padding-100xl: 7.437rem;
+  --padding-smi: 0.812rem;
+
+  /* Border radiuses */
+  --br-12xs: 1px;
+  --br-5xs: 8px;
+  --br-7xs: 6px;
+  --br-31xl: 50px;
+  --br-11xs: 2px;
+}
